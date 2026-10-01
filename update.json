@@ -1,6 +1,6 @@
 {
-    "sha256":  "7652e08e51b45200a0df66a239b907fbc60f7cabdbad4fd0b02111c6cbf2b324",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.937/PetShopManager_Update_1.0.2026.937.zip",
-    "version":  "1.0.2026.937",
-    "notes":  "myDATA connection settings, encrypted local credentials and connection error messages."
+    "sha256":  "ddcde63b64a0306927cf5f8acadecaf9d3b8bb9586c103de25f93b770928d149",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.938/PetShopManager_Update_1.0.2026.938.zip",
+    "version":  "1.0.2026.938",
+    "notes":  "myDATA invoice inbox, product matching and categories, remembered supplier mappings and optional 3-hour checks."
 }

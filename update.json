@@ -1,6 +1,6 @@
 {
-    "sha256":  "8dfcc1f9d07c2d54a702ddb69038ced22c4cc2e59ced6b7ab29758bb81e3d7b7",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.940/PetShopManager_Update_1.0.2026.940.zip",
-    "version":  "1.0.2026.940",
-    "notes":  "Fix product matching dialog initialization and preserve sync-safe myDATA updates."
+    "sha256":  "7a12b7d20fda0a0fcd76e955b26ff707b5233dafad86df2668cc23fc7553c506",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.941/PetShopManager_Update_1.0.2026.941.zip",
+    "version":  "1.0.2026.941",
+    "notes":  "Unified myDATA update: bulk and remembered supplier SKU matching, quiet rate-limit retries, invoice debts including VAT, supplier payments/merge, Piraeus XLSX and Viva PDF review/import with POS fees and own-account transfers."
 }

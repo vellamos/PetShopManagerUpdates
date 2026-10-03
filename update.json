@@ -1,6 +1,6 @@
 {
-    "sha256":  "7a12b7d20fda0a0fcd76e955b26ff707b5233dafad86df2668cc23fc7553c506",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.941/PetShopManager_Update_1.0.2026.941.zip",
-    "version":  "1.0.2026.941",
+    "sha256":  "7658c6a36bfc23dc35c02994d7178271594d50f208f12532bc4ac49e254c7237",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.942/PetShopManager_Update_1.0.2026.942.zip",
+    "version":  "1.0.2026.942",
     "notes":  "Unified myDATA update: bulk and remembered supplier SKU matching, quiet rate-limit retries, invoice debts including VAT, supplier payments/merge, Piraeus XLSX and Viva PDF review/import with POS fees and own-account transfers."
 }

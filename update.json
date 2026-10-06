@@ -1,6 +1,6 @@
 {
-    "sha256":  "28996f604c7d331088e393a2b49a93ad0f4aba2962fd7dad43ac4d9dcfe700b3",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.951/PetShopManager_Update_1.0.2026.951.zip",
-    "version":  "1.0.2026.951",
-    "notes":  "Unified UI: readable sidebar, supplier fields, installment payments, obligations and business advisor; preserve native card layouts."
+    "sha256":  "b196c5ca612a59f3389722ffb7900eebd9a7f1f114a8fc3756e42468b7bc7add",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.952/PetShopManager_Update_1.0.2026.952.zip",
+    "version":  "1.0.2026.952",
+    "notes":  "Fix category and subcategory creation timestamps; compatible with older databases."
 }

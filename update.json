@@ -1,6 +1,6 @@
 {
-    "sha256":  "fbed52da48c34d702c19b89213ecccf20afa85bb1470c74821abf85fdc118dab",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.953/PetShopManager_Update_1.0.2026.953.zip",
-    "version":  "1.0.2026.953",
-    "notes":  "Category picker: responsive assignment and cancel buttons, Enter and double-click confirmation."
+    "sha256":  "22f9bbcd51384badc99a645e2072d75dba427348d8f603b0b04003702d754408",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.954/PetShopManager_Update_1.0.2026.954.zip",
+    "version":  "1.0.2026.954",
+    "notes":  "Products DPI layout: measured product cards, readable prices and category navigation; wrapping bulk actions."
 }

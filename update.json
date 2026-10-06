@@ -1,6 +1,6 @@
 {
-    "sha256":  "ac781dc06256f2dfb98f3b32a4a687622e396c279c07efee8248e14df0ebdf2e",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.948/PetShopManager_Update_1.0.2026.948.zip",
-    "version":  "1.0.2026.948",
+    "sha256":  "83762086f29438f77e63e5e8770a6850557fb611f8655dd394ba3da3ac0f4089",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.949/PetShopManager_Update_1.0.2026.949.zip",
+    "version":  "1.0.2026.949",
     "notes":  "Sidebar header separated from menu; readable navigation; one expanded group at a time."
 }

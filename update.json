@@ -1,6 +1,6 @@
 {
-    "sha256":  "a8eec3a20d760e1a964613f6fe86651158f6340b04774bb63a7665f1f20f070e",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.946/PetShopManager_Update_1.0.2026.946.zip",
-    "version":  "1.0.2026.946",
-    "notes":  "Fix grid appearance startup crash; retain column minimum widths and defer styling until handle creation and binding finish."
+    "sha256":  "73c87915d253b5df17399d76e6421b47cb85a550f656a3a975d26cadf9f3b1b3",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.947/PetShopManager_Update_1.0.2026.947.zip",
+    "version":  "1.0.2026.947",
+    "notes":  "Fix light theme color overflow and grid startup; wider sidebar-content spacing; navigation groups collapsed on startup."
 }

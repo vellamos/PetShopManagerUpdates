@@ -1,6 +1,6 @@
 {
-    "sha256":  "e5f6e0c5d9416d7c179df8046cbf5ccd2fe03bfa354b5e8fe5437c48fa19f719",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.945/PetShopManager_Update_1.0.2026.945.zip",
-    "version":  "1.0.2026.945",
-    "notes":  "Central appearance settings across forms; responsive fields, wrapping groups, readable grids and scrolling; DPI layout repairs."
+    "sha256":  "a8eec3a20d760e1a964613f6fe86651158f6340b04774bb63a7665f1f20f070e",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.946/PetShopManager_Update_1.0.2026.946.zip",
+    "version":  "1.0.2026.946",
+    "notes":  "Fix grid appearance startup crash; retain column minimum widths and defer styling until handle creation and binding finish."
 }

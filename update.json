@@ -1,6 +1,6 @@
 {
-    "sha256":  "af5fce7020870f14177a760ad60115f98d55b1e422a9526f6956ea58679a771d",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.944/PetShopManager_Update_1.0.2026.944.zip",
-    "version":  "1.0.2026.944",
-    "notes":  "Excel product synchronization and Wolt pricing; decimal input and DPI layout repairs."
+    "sha256":  "e5f6e0c5d9416d7c179df8046cbf5ccd2fe03bfa354b5e8fe5437c48fa19f719",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.945/PetShopManager_Update_1.0.2026.945.zip",
+    "version":  "1.0.2026.945",
+    "notes":  "Central appearance settings across forms; responsive fields, wrapping groups, readable grids and scrolling; DPI layout repairs."
 }

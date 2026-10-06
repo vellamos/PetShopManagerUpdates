@@ -1,6 +1,6 @@
 {
-    "sha256":  "73c87915d253b5df17399d76e6421b47cb85a550f656a3a975d26cadf9f3b1b3",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.947/PetShopManager_Update_1.0.2026.947.zip",
-    "version":  "1.0.2026.947",
-    "notes":  "Fix light theme color overflow and grid startup; wider sidebar-content spacing; navigation groups collapsed on startup."
+    "sha256":  "ac781dc06256f2dfb98f3b32a4a687622e396c279c07efee8248e14df0ebdf2e",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.948/PetShopManager_Update_1.0.2026.948.zip",
+    "version":  "1.0.2026.948",
+    "notes":  "Sidebar header separated from menu; readable navigation; one expanded group at a time."
 }

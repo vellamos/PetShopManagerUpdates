@@ -1,6 +1,6 @@
 {
-    "sha256":  "22f9bbcd51384badc99a645e2072d75dba427348d8f603b0b04003702d754408",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.954/PetShopManager_Update_1.0.2026.954.zip",
-    "version":  "1.0.2026.954",
-    "notes":  "Products DPI layout: measured product cards, readable prices and category navigation; wrapping bulk actions."
+    "sha256":  "4a5612917765fab3b83e3b164a440488b1c3c47bd6958677f9420649179d4842",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.955/PetShopManager_Update_1.0.2026.955.zip",
+    "version":  "1.0.2026.955",
+    "notes":  "Product editor: responsive layout, persistent product details and sync; explicit pricing, VAT and gross profit calculations."
 }

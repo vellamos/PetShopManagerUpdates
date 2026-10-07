@@ -1,6 +1,6 @@
 {
-    "sha256":  "b3f11a4d35e619e5e74088a77825ff32c76e57b56272caafd61e334d9e3e600c",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.957/PetShopManager_Update_1.0.2026.957.zip",
-    "version":  "1.0.2026.957",
-    "notes":  "Inventory layout: compact automatic tool rows and full remaining product area; product units: purchase packs and independent unit/pack retail prices; linked inventory and stock conversion; category/subcategory selection."
+    "sha256":  "39f37231f07dd27cbd24186b9c839dc6f2195a6310084cae2d4f54e4a1033676",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.958/PetShopManager_Update_1.0.2026.958.zip",
+    "version":  "1.0.2026.958",
+    "notes":  "Product units: purchase packs and independent unit/pack retail prices; linked inventory and stock conversion; category/subcategory selection."
 }

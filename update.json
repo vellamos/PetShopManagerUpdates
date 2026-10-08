@@ -1,6 +1,6 @@
 {
-    "sha256":  "5b83fa4ba5f06ef9f1ccfb4bb50fee5b2c56c975066e8d534953da130283b582",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.970/PetShopManager_Update_1.0.2026.970.zip",
-    "version":  "1.0.2026.970",
-    "notes":  "Piraeus statement review, business/personal accounts, oldest-first supplier payments, advances and optional initial reconciliation. Previous fixes included."
+    "sha256":  "74b5d90688e3678008beb878bb943067ba2dd96f64f053b20c058515faca633b",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.971/PetShopManager_Update_1.0.2026.971.zip",
+    "version":  "1.0.2026.971",
+    "notes":  "Finance owner reassignment with preserved start date and audit; full Piraeus payment update and previous fixes included."
 }

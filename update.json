@@ -1,6 +1,6 @@
 {
-    "sha256":  "2986305343cfebaf3c88d7931e59db3fcf1d9abc4666cf8f444efa77a57fed96",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.969/PetShopManager_Update_1.0.2026.969.zip",
-    "version":  "1.0.2026.969",
-    "notes":  "Finance overview: selected periods, estimated yearly opening funds, savings in total liquidity; no fabricated reconciliation expenses. Previous fixes included."
+    "sha256":  "5b83fa4ba5f06ef9f1ccfb4bb50fee5b2c56c975066e8d534953da130283b582",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.970/PetShopManager_Update_1.0.2026.970.zip",
+    "version":  "1.0.2026.970",
+    "notes":  "Piraeus statement review, business/personal accounts, oldest-first supplier payments, advances and optional initial reconciliation. Previous fixes included."
 }

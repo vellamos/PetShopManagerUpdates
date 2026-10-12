@@ -1,6 +1,6 @@
 {
-    "sha256":  "6e9ce93e45cbaa68fa0e472aa70b83c658d8a8c419d3d103b7f408fd88c9cc9c",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.974/PetShopManager_Update_1.0.2026.974.zip",
-    "version":  "1.0.2026.974",
-    "notes":  "Independent read-only purchase analysis, confirmed cross-supplier groups, unit conversions and Excel export; previous updates included."
+    "sha256":  "bd30e4a9b45a8cdeccb477ac67dcd6e7f7a4518573a12f035210715c28f6d460",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.975/PetShopManager_Update_1.0.2026.975.zip",
+    "version":  "1.0.2026.975",
+    "notes":  "Auto supplier/code purchase grouping, supplier drilldown, atomic bulk mapping and independent retail input; previous updates included."
 }

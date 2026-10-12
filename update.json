@@ -1,6 +1,6 @@
 {
-    "sha256":  "d878a2ddbd57b2ebb9fdf3a4555ff0e8c03f01bd49f246abc74d657a7c6a5219",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.972/PetShopManager_Update_1.0.2026.972.zip",
-    "version":  "1.0.2026.972",
+    "sha256":  "a8430eff77a5ec55feb24eac545ac649da22353bfc316b7ca29b7b99f7f60e52",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.973/PetShopManager_Update_1.0.2026.973.zip",
+    "version":  "1.0.2026.973",
     "notes":  "Cash count parent sync, idempotent missing-parent backfill and proven remote detail relinking; previous finance and bank fixes included."
 }

@@ -1,6 +1,6 @@
 {
-    "sha256":  "a054e205b4d221fe98edce8912cfd8b676e63a41a81b59981742f664a19f1e8d",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.979/PetShopManager_Update_1.0.2026.979.zip",
-    "version":  "1.0.2026.979",
-    "notes":  "Auto supplier/code purchase grouping, supplier drilldown, atomic bulk mapping and independent retail input; previous updates included."
+    "sha256":  "f92d12e378f3ecab731369bbe729c43844f4cd1e8507a37a4ad6caf141ee5a07",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.980/PetShopManager_Update_1.0.2026.980.zip",
+    "version":  "1.0.2026.980",
+    "notes":  "Incoming invoice tiles, full or partial supplier payment and one cash expense per payment."
 }

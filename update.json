@@ -1,6 +1,6 @@
 {
-    "sha256":  "f92d12e378f3ecab731369bbe729c43844f4cd1e8507a37a4ad6caf141ee5a07",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.980/PetShopManager_Update_1.0.2026.980.zip",
-    "version":  "1.0.2026.980",
-    "notes":  "Incoming invoice tiles, full or partial supplier payment and one cash expense per payment."
+    "sha256":  "3b626fd08c1c47eb29902ed64a0180612e9f46f1f2a0fc226104b9056851e0ff",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.981/PetShopManager_Update_1.0.2026.981.zip",
+    "version":  "1.0.2026.981",
+    "notes":  "Simple catalog queue: visible VAT, units and category pricing; persistent progress, barcode entry, mixed-row save and background loading."
 }

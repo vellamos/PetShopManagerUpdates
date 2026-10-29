@@ -1,6 +1,6 @@
 {
-    "sha256":  "ed7d17e81c1be943d974c4dc23a29799d12bca7354acd521f213b482809673d8",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.982/PetShopManager_Update_1.0.2026.982.zip",
-    "version":  "1.0.2026.982",
-    "notes":  "Simple catalog queue: visible VAT, units and category pricing; persistent progress, barcode entry, mixed-row save and background loading."
+    "sha256":  "33c16df245612ebd60779448f8a19c72a8563fe89467fec46ae83b787c2f2221",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.983/PetShopManager_Update_1.0.2026.983.zip",
+    "version":  "1.0.2026.983",
+    "notes":  "Viva read-only account balance and transaction snapshots, safe deduplication, background refresh and simple banking screen."
 }

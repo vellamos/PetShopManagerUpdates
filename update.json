@@ -1,6 +1,6 @@
 {
-    "sha256":  "33c16df245612ebd60779448f8a19c72a8563fe89467fec46ae83b787c2f2221",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.983/PetShopManager_Update_1.0.2026.983.zip",
-    "version":  "1.0.2026.983",
-    "notes":  "Viva read-only account balance and transaction snapshots, safe deduplication, background refresh and simple banking screen."
+    "sha256":  "749f0dddbfe090f640ef92047513a983d3149e5d02263d0f675b9af8da620c45",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.984/PetShopManager_Update_1.0.2026.984.zip",
+    "version":  "1.0.2026.984",
+    "notes":  "Unified central overview, internal movement tabs and read-only financial review export with coverage checks."
 }

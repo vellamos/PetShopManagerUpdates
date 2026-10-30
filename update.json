@@ -1,6 +1,6 @@
 {
-    "sha256":  "749f0dddbfe090f640ef92047513a983d3149e5d02263d0f675b9af8da620c45",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.984/PetShopManager_Update_1.0.2026.984.zip",
-    "version":  "1.0.2026.984",
-    "notes":  "Unified central overview, internal movement tabs and read-only financial review export with coverage checks."
+    "sha256":  "f0d494ab4efeb396902db58703cb7a5a6f9059f5ded755a9032dcaa9bab66399",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.985/PetShopManager_Update_1.0.2026.985.zip",
+    "version":  "1.0.2026.985",
+    "notes":  "Unified payable reconciliation using verified document links, shared Viva balance cache and duplicate lineage review; no historical transactions removed."
 }

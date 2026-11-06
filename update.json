@@ -1,6 +1,6 @@
 {
-    "sha256":  "1bfcc7a9031337354d98a091f9d4513ae454ddfd4b604d0036cc88029f29e955",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.987/PetShopManager_Update_1.0.2026.987.zip",
-    "version":  "1.0.2026.987",
-    "notes":  "Historical already-paid action for supplier invoices, without creating a new payment or cash movement; audited settlement and review export."
+    "sha256":  "ed5cdcd727039835e7bdc337f1ee9ab6f0cf5e523c815e385ba375986ff6eae0",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.988/PetShopManager_Update_1.0.2026.988.zip",
+    "version":  "1.0.2026.988",
+    "notes":  "Explicit myDATA supplier matching and creation; merchandise suppliers selected manually; expense-only issuers excluded from product review; existing supplier identities and manual fields preserved."
 }

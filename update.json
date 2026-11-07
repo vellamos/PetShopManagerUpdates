@@ -1,6 +1,6 @@
 {
-    "sha256":  "ed5cdcd727039835e7bdc337f1ee9ab6f0cf5e523c815e385ba375986ff6eae0",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.988/PetShopManager_Update_1.0.2026.988.zip",
-    "version":  "1.0.2026.988",
-    "notes":  "Explicit myDATA supplier matching and creation; merchandise suppliers selected manually; expense-only issuers excluded from product review; existing supplier identities and manual fields preserved."
+    "sha256":  "8e7108c638d44bc7a7c8a11de1da005c593a2eabb11408bfdb2367ac65daab2e",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.989/PetShopManager_Update_1.0.2026.989.zip",
+    "version":  "1.0.2026.989",
+    "notes":  "Supplier payment uses entered amount and confirms remaining balance. Explicit reconciliation of selected legacy and supplier debts into one agreed balance without cash movement, preserving original invoices and audit history."
 }

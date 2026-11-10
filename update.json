@@ -1,6 +1,6 @@
 {
-    "sha256":  "8e7108c638d44bc7a7c8a11de1da005c593a2eabb11408bfdb2367ac65daab2e",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.989/PetShopManager_Update_1.0.2026.989.zip",
-    "version":  "1.0.2026.989",
-    "notes":  "Supplier payment uses entered amount and confirms remaining balance. Explicit reconciliation of selected legacy and supplier debts into one agreed balance without cash movement, preserving original invoices and audit history."
+    "sha256":  "e48f61cf3595e4d85ef69b5ddbf2f4c4f1606d6ebee8a3c94a38e29f84b7bd7c",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.990/PetShopManager_Update_1.0.2026.990.zip",
+    "version":  "1.0.2026.990",
+    "notes":  "Viva expense classification and fee/cashback analysis; separate POS sales by payment time; guarded till autofill for selected periods; CSV and PDF imports; no duplicate money postings."
 }

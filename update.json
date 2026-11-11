@@ -1,6 +1,6 @@
 {
-    "sha256":  "a20101b3e08564f0748ba71f8caabf3c86a3a44e632252c58a66bc5e404aa1f1",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.991/PetShopManager_Update_1.0.2026.991.zip",
-    "version":  "1.0.2026.991",
-    "notes":  "Fix category pricing rules dialog crash by defining grid columns before binding. Protect asynchronous rules opening; same correction in related catalog rules form."
+    "sha256":  "30e04a26dfc5f228535b1d26096d75678fe0f2b7349af5bc0049fcec19c9fb4a",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.992/PetShopManager_Update_1.0.2026.992.zip",
+    "version":  "1.0.2026.992",
+    "notes":  "Viva POS download diagnostics and protection against replacing saved sales with an empty API result."
 }

@@ -1,6 +1,6 @@
 {
-    "sha256":  "2360d11bd77454c3ecd07592a96367857eacceb9e244e40a9dacdf1441d6d9e1",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.993/PetShopManager_Update_1.0.2026.993.zip",
-    "version":  "1.0.2026.993",
-    "notes":  "Viva Data Services settings and OAuth authentication test."
+    "sha256":  "e0818d46646dddb515d92a1ba1c077ec13a294343e132f267d41a355e7af3e26",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.994/PetShopManager_Update_1.0.2026.994.zip",
+    "version":  "1.0.2026.994",
+    "notes":  "Viva Data Services POS daily report request."
 }

@@ -1,6 +1,6 @@
 {
-    "sha256":  "99aec7fed644e539bc781c2649fa23f3c56b94aaf04b015e746009600f6f7fa4",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.995/PetShopManager_Update_1.0.2026.995.zip",
-    "version":  "1.0.2026.995",
-    "notes":  "Viva POS reports through Supabase with saved device credentials."
+    "sha256":  "2602c0ca3a0a8696a6b2de10635f9f2d1f39d2811fe19b7bf35311cb55c27e11",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.996/PetShopManager_Update_1.0.2026.996.zip",
+    "version":  "1.0.2026.996",
+    "notes":  "Viva POS daily, weekly and monthly reports with automatic report import and daily cash suggestions."
 }

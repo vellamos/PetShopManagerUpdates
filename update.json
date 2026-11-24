@@ -1,6 +1,6 @@
 {
-    "sha256":  "080c9d3eebb072fa8fd0983f618badc255125267e7ce99a306ee1d8ce67e5a72",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.1001/PetShopManager_Update_1.0.2026.1001.zip",
-    "version":  "1.0.2026.1001",
+    "sha256":  "008b6b7c2e38e9f8a6e46117fd075be6ca4f45b961acfda9df690846e54d0659",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.1002/PetShopManager_Update_1.0.2026.1002.zip",
+    "version":  "1.0.2026.1002",
     "notes":  "Repair missing legacy installment IDs; allocate explicit keys on new installments; guard null selection; compare obligation sync coverage."
 }

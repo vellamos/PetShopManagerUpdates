@@ -1,6 +1,6 @@
 {
-    "sha256":  "97760f1605af15cc65439260dceb65d8d8a9a29cf3403d6dd6f3611e8408b72a",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.1004/PetShopManager_Update_1.0.2026.1004.zip",
-    "version":  "1.0.2026.1004",
-    "notes":  "Unify advisors on canonical financial data; fix decimal inflation and missing dates; reconcile proven invoice links; use saved daily-cash days; replace crowded cards with readable tabs and show data coverage."
+    "sha256":  "30aadd4752be23b35f4fa8827b0a20f35d0256fac18a1366375dfc1ccc811763",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.1005/PetShopManager_Update_1.0.2026.1005.zip",
+    "version":  "1.0.2026.1005",
+    "notes":  "Fix literal N2 currency labels in both advisor grids; display actual euro values with two decimal places."
 }

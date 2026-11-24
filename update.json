@@ -1,6 +1,6 @@
 {
-    "sha256":  "7a1b471d2421f43ca97db61f6283c95e1086e383444704789c5c577b6a3a066d",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.1000/PetShopManager_Update_1.0.2026.1000.zip",
-    "version":  "1.0.2026.1000",
-    "notes":  "Select new unpaid installments automatically; per-row payment action; preserve existing payment and already-paid workflow."
+    "sha256":  "080c9d3eebb072fa8fd0983f618badc255125267e7ce99a306ee1d8ce67e5a72",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.1001/PetShopManager_Update_1.0.2026.1001.zip",
+    "version":  "1.0.2026.1001",
+    "notes":  "Repair missing legacy installment IDs; allocate explicit keys on new installments; guard null selection; compare obligation sync coverage."
 }

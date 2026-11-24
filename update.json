@@ -1,6 +1,6 @@
 {
-    "sha256":  "d8c3c58b9a866692313e48999c562658f59b23991c6d8e058f9bb90c7253e780",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.1003/PetShopManager_Update_1.0.2026.1003.zip",
-    "version":  "1.0.2026.1003",
-    "notes":  "Unify installment UI and reminders with synchronized canonical obligations; recover confirmed accountant payments; archive duplicate; keep backup and audit without replaying money transactions."
+    "sha256":  "97760f1605af15cc65439260dceb65d8d8a9a29cf3403d6dd6f3611e8408b72a",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.1004/PetShopManager_Update_1.0.2026.1004.zip",
+    "version":  "1.0.2026.1004",
+    "notes":  "Unify advisors on canonical financial data; fix decimal inflation and missing dates; reconcile proven invoice links; use saved daily-cash days; replace crowded cards with readable tabs and show data coverage."
 }

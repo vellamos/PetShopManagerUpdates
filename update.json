@@ -1,6 +1,6 @@
 {
-    "sha256":  "008b6b7c2e38e9f8a6e46117fd075be6ca4f45b961acfda9df690846e54d0659",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.1002/PetShopManager_Update_1.0.2026.1002.zip",
-    "version":  "1.0.2026.1002",
-    "notes":  "Repair missing legacy installment IDs; allocate explicit keys on new installments; guard null selection; compare obligation sync coverage."
+    "sha256":  "d8c3c58b9a866692313e48999c562658f59b23991c6d8e058f9bb90c7253e780",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.1003/PetShopManager_Update_1.0.2026.1003.zip",
+    "version":  "1.0.2026.1003",
+    "notes":  "Unify installment UI and reminders with synchronized canonical obligations; recover confirmed accountant payments; archive duplicate; keep backup and audit without replaying money transactions."
 }

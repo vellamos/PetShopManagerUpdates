@@ -1,6 +1,6 @@
 {
-    "sha256":  "f0dd552d40e16d8669878682957f358db9325bca9f0b428299c71c141a7d26ac",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.1006/PetShopManager_Update_1.0.2026.1006.zip",
-    "version":  "1.0.2026.1006",
-    "notes":  "One card per supplier for invoice and manual debts; synced supplier priorities; shared-budget payment proposals; mixed-source partial payments with atomic allocation and no duplicate cash debit."
+    "sha256":  "60227b7c26f6feb574c41dab4633c17999833629cc3858a1576e9389fe0d90af",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.1007/PetShopManager_Update_1.0.2026.1007.zip",
+    "version":  "1.0.2026.1007",
+    "notes":  "Simple invoice settlement with historical partial/full payment and no duplicate money movement; direct new-product creation with supplier code, barcode and category/subcategory; paid-invoice history and clearer windows."
 }

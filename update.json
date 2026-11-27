@@ -1,6 +1,6 @@
 {
-    "sha256":  "60227b7c26f6feb574c41dab4633c17999833629cc3858a1576e9389fe0d90af",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.1007/PetShopManager_Update_1.0.2026.1007.zip",
-    "version":  "1.0.2026.1007",
-    "notes":  "Simple invoice settlement with historical partial/full payment and no duplicate money movement; direct new-product creation with supplier code, barcode and category/subcategory; paid-invoice history and clearer windows."
+    "sha256":  "4a77d5e450ccc9619800eee7df445523e3bd88de7261a19d5e2c33f8b5d5a0dc",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.1008/PetShopManager_Update_1.0.2026.1008.zip",
+    "version":  "1.0.2026.1008",
+    "notes":  "Fix duplicated expense display and totals; explicit finance identities for compatibility-view inserts; prevent reentrant saving; review and relink confirmed historical expense pairs without deleting rows or changing money balances."
 }

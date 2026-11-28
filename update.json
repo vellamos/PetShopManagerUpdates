@@ -1,6 +1,6 @@
 {
-    "sha256":  "5b979d5d8ec1a32fb0f6a45c3a8bb5f287fa9a3036dd4b77b3ccfd4d1bb0b072",
-    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.1011/PetShopManager_Update_1.0.2026.1011.zip",
-    "version":  "1.0.2026.1011",
-    "notes":  "Unified expense form, explicit invoice settlement and old-payment matching, bounded monthly myDATA views, resumable annual download and audited financial duplicate review."
+    "sha256":  "b2059e884d55c676a229bc511ead51ccb9a99001eeefa4fb0158425c104f3165",
+    "url":  "https://github.com/vellamos/PetShopManagerUpdates/releases/download/v1.0.2026.1012/PetShopManager_Update_1.0.2026.1012.zip",
+    "version":  "1.0.2026.1012",
+    "notes":  "Keep automatic synchronization off the UI thread; apply remote changes in short transactions; one-click source update, build and publication."
 }
